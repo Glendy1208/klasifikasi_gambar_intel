@@ -1,2 +1,6 @@
 dataset/
 ori/
+model_tfjs/
+saved_model/
+tflite/
+best_model.h5
